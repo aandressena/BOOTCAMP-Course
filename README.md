@@ -1,2 +1,2 @@
 # course
-Python Notebooks to start creating something.
+Python Notebooks.
